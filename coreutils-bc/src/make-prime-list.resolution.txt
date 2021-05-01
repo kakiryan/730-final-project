@@ -1,0 +1,16 @@
+src/make-prime-list.o
+-r=src/make-prime-list.o,main,plx
+-r=src/make-prime-list.o,fprintf,
+-r=src/make-prime-list.o,atoi,
+-r=src/make-prime-list.o,free,
+-r=src/make-prime-list.o,ferror,
+-r=src/make-prime-list.o,fclose,
+-r=src/make-prime-list.o,strerror,
+-r=src/make-prime-list.o,__errno_location,
+-r=src/make-prime-list.o,malloc,
+-r=src/make-prime-list.o,exit,
+-r=src/make-prime-list.o,puts,
+-r=src/make-prime-list.o,printf,
+-r=src/make-prime-list.o,abort,
+-r=src/make-prime-list.o,stderr,
+-r=src/make-prime-list.o,stdout,

@@ -1,0 +1,12 @@
+src/libstdbuf_so-libstdbuf.o
+-r=src/libstdbuf_so-libstdbuf.o,getenv,
+-r=src/libstdbuf_so-libstdbuf.o,strtoumax,
+-r=src/libstdbuf_so-libstdbuf.o,fprintf,
+-r=src/libstdbuf_so-libstdbuf.o,gettext,
+-r=src/libstdbuf_so-libstdbuf.o,fileno,
+-r=src/libstdbuf_so-libstdbuf.o,malloc,
+-r=src/libstdbuf_so-libstdbuf.o,setvbuf,
+-r=src/libstdbuf_so-libstdbuf.o,free,
+-r=src/libstdbuf_so-libstdbuf.o,stderr,
+-r=src/libstdbuf_so-libstdbuf.o,stdin,
+-r=src/libstdbuf_so-libstdbuf.o,stdout,

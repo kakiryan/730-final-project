@@ -1,0 +1,2 @@
+src/ls-vdir.o
+-r=src/ls-vdir.o,ls_mode,pl
