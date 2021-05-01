@@ -1,2 +1,4 @@
 **/*build
 *klee-out*
+*.bc
+*.out
