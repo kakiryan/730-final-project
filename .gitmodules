@@ -3,4 +3,4 @@
 	url = https://github.com/klee/klee.git
 [submodule "coreutils"]
 	path = coreutils
-	url = git://git.sv.gnu.org/coreutils
+	url = https://github.com/coreutils/coreutils
